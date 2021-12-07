@@ -12,4 +12,4 @@ Dioanaea Honeypot Deployment:
   
 Database Backup (session.json)
   I copied and pasted 'gcloud compute scp mhn-admin:~/session.json ./session.json' onto my local machine, but there were issues. So I copied and pasted 'gcloud compute scp mhn-admin:/home/<my name>/session.json ./session.json'. 
-  <img src="Screenshot (93).jpg">
+  <img src="Screenshot(93).jpg">
